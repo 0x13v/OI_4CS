@@ -10,16 +10,14 @@ def clientHandler():
             break
         print "Received Message", repr(data)
 
-
 HOST = '' #localhost
-PORT = 8000
+PORT = 8001
 
 s = socket(AF_INET, SOCK_STREAM)
 s.bind((HOST, PORT))
 s.listen(5)
 
 print "Server is running......"
-
 #Thread(target=clientHandler).start()
 #Thread(target=clientHandler).start()
 #Thread(target=clientHandler).start()

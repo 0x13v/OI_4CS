@@ -4,7 +4,7 @@ from socket import *
 
 HOST = '' #localhost / 192.168.1.1
 # LAN - 192.168.1.1
-PORT = 8000
+PORT = 8001
 s = socket(AF_INET, SOCK_STREAM)# 98% of all socket programming will use AF_INET and SOCK_STREAM
 s.bind((HOST, PORT)) 
 s.listen(1) # how many connections it can receive at one time 
@@ -18,6 +18,3 @@ while i is True:
     conn.sendall(reply) 
     
 conn.close()
-
-
-
