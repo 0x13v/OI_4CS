@@ -1,0 +1,219 @@
+………is used intensively in academic fields
+Select one:
+a. TIFF
+b. PTM
+c. EXIF
+d. PS 
+e. PDF
+f. BMP
+--------------------------------------
+Answer: PS
+--------------------------Question :2
+
+
+
+
+"Dpi" stands for ….
+Select one:
+a. Diagrams per inch
+b. Dots pixel inch
+c. Digits per unit
+d. Dots per inch 
+--------------------------------------
+Answer: Dots per inch
+--------------------------Question :3
+
+
+
+
+Any of the following is/are feature/s of GIF standard
+Select one:
+a. All of Above 
+b. Supports simple animation
+c. Is limited to 8-bit color images only.
+d. Uses the Lempel-Ziv-Welch algorithm.
+e. It is best suited for images with few distinctive colors
+f. Initially for transmitting graphical images over phone lines
+--------------------------------------
+Answer: All of Above
+--------------------------Question :4
+
+
+
+
+File format that is capable of describing grayscale and full color image data in several color spaces.
+Select one:
+a. BMP
+b. TIFF 
+c. PDF
+d. PNG
+e. PS
+f. GIF
+--------------------------------------
+Answer: TIFF
+--------------------------Question :5
+
+
+
+
+GIF stands for …...
+Select one:
+a. Graphics Interchange Format 
+b. Graphics Interchange File
+c. Global Information Format
+d. Graphics Information Format
+--------------------------------------
+Answer: Graphics Interchange Format
+--------------------------Question :6
+
+
+
+
+Is a technique for storing a representation of a camera scene
+Select one:
+a. PDF
+b. PS
+c. Both A &amp; E 
+d. TIFF
+e. PTM
+f. BMP
+g. EXIF
+--------------------------------------
+Answer: Both A &amp; E
+--------------------------Question :7
+
+
+
+
+JPEG stands for…...Head, Title, HTML, body
+Select one:
+a. Joint Photographic Experts Group 
+b. Joint Picture Exports Group
+c. Joint Picture Extra Group
+d. Joint Picture Export Graphics
+--------------------------------------
+Answer: Joint Photographic Experts Group
+--------------------------Question :8
+
+
+
+
+Multimedia combines________, text, __________, animation, video and ________
+Select one:
+a. Images, colour, audio
+b. Audio, images, colour
+c. Audio, hypertext, images 
+d. Colour, hypertext, images
+--------------------------------------
+Answer: Audio, hypertext, images
+--------------------------Question :9
+
+
+
+
+RGB typically uses how many bits to represent a color?
+Select one:
+a. 8
+b. 24 
+c. 32
+d. 48
+e. 16
+f. 1
+--------------------------------------
+Answer: 24
+--------------------------Question :10
+
+
+
+
+The file format that is a simplified version of PostScript allowing for files containing multiple pages and links.
+Select one:
+a. PS
+b. PNG
+c. GIF
+d. TIFF
+e. BMP
+f. PDF 
+--------------------------------------
+Answer: PDF
+--------------------------Question :11
+
+
+
+
+The PDF file format stands for...
+Select one:
+a. Portable Document Format 
+b. Printed Document Format
+c. Photographic Design Format
+d. Public Document Format
+e. PostScript Durable File
+f. Published Document Format
+--------------------------------------
+Answer: Portable Document Format
+--------------------------Question :12
+
+
+
+
+This is the default file format used by a specific software application.
+Select one:
+a. Home file
+b. Image file
+c. Native file 
+--------------------------------------
+Answer: Native file
+--------------------------Question :13
+
+
+
+
+What is the term which represents the use of links between information of all sorts whether text, graphics, video and audio-based?
+Select one:
+a. Hypertext
+b. HyperCard
+c. Hypermedia 
+d. Wildcard
+--------------------------------------
+Answer: Hypermedia
+--------------------------Question :14
+
+
+
+
+Which file format is used in fax machines?
+Select one:
+a. 1-bit image 
+b. 8-Bit Gray-Level Images
+c. 24-Bit Color Images
+d. 8-Bit Color Images
+--------------------------------------
+Answer: 1-bit image
+--------------------------Question :15
+
+
+
+
+Which image files are lossy format?
+Select one:
+a. MPEG
+b. PNG
+c. JPEG 
+d. GIF
+--------------------------------------
+Answer: JPEG
+--------------------------Question :16
+
+
+
+
+Which of the following File Formats is a lossless File Format that was intended to replace GIF by adding extra features?
+Select one:
+a. PS
+b. BMP
+c. PNG 
+d. PDF
+e. TIFF
+f. GIF
+--------------------------------------
+Answer: PNG

@@ -1,0 +1,95 @@
+
+------------------------------------------Question: 1
+
+
+
+
+A Binary Large OBject (BLOB): is a raw file that can have a digital storage unit that is several gigabytes in size.
+Select one:
+a. False
+b. True
+Feedback
+Answer: False
+------------------------------------------Question: 2
+
+
+
+
+it often requires a related program to be opened.
+Select one:
+a. False
+b. True Answer
+Feedback
+Answer: False
+------------------------------------------Question: 3
+
+
+
+
+Multimedia data consists of a variety of media formats or file representations including
+Select one:
+a. PPT
+b. BMP
+c. TIFF
+d. All the previous
+Feedback
+Answer: All the previous
+------------------------------------------Question: 4
+
+
+
+
+Multimedia database consume a lot of processing time, as well as bandwidth
+Select one:
+a. False
+b. True
+Feedback
+Answer: False
+------------------------------------------Question: 5
+
+
+
+
+Usually, the data size of multimedia is large such as video; therefore, multimedia data often require a large storage
+Select one:
+a. True
+b. False
+Feedback
+Answer: False
+------------------------------------------Question: 6
+
+
+
+
+VOD are systems which allow users to select and watch/listen to video or audio content when they choose to.
+Select one:
+a. False
+b. True Answer
+Feedback
+Answer: False
+------------------------------------------Question: 7
+
+
+
+
+Which of the following is an example Requirements of Multimedia DBMS
+Select one:
+a. Privacy
+b. Recovery:
+c. All of the previous
+d. Persistence
+Feedback
+Answer: All of the previous
+------------------------------------------Question: 8
+
+
+
+
+Which of the following is not an example of multimedia database applications?
+Select one:
+a. Video on Demand
+b. None of the previous
+c. Digital Libraries
+d. News on Demand
+Feedback
+Answer: None of the previous

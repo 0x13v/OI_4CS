@@ -1,0 +1,251 @@
+…… is the structure of linked elements through which a user can navigate inactive multimedia
+Select one:
+a. None of the above
+b. Hypermedia 
+c. Hyperlinks
+d. Multimedia
+-------------------------
+Answer: Hypermedia
+-------------------- Question :2
+
+
+A project which is viewed by the user from beginning to end is called ——-
+Select one:
+a. Movie
+b. Linear Multimedia 
+c. PPT Presentation
+d. Multimedia
+-------------------------
+Answer: Linear Multimedia
+-------------------- Question :3
+
+
+
+
+Edward Mosher developed the Generalized Markup Language (GML) for …..
+Select one:
+a. IBM 
+b. Microsoft
+c. Apple
+d. GML didn’t develop by Edward Mosher
+-------------------------
+Answer: IBM
+-------------------- Question :4
+
+
+
+
+If multimedia elements are static and dynamic elements, which of the following isn’t type of dynamic elements
+Select one:
+a. Audio
+b. Graphics 
+c. Video
+d. Animation
+-------------------------
+Answer: Graphics
+-------------------- Question :5
+
+
+
+
+Standard Generalized Markup Language (SGML) released by …….
+Select one:
+a. Apple
+b. Microsoft
+c. IBM
+d. IOS 
+-------------------------
+Answer: IOS
+-------------------- Question :6
+
+
+
+
+The  sequence in which the following events appeared is….
+Select one:
+a. Newspapers, gramophone, phonograph, Silent films, TV
+b. Newspapers, phonograph, gramophone, Silent films, TV 
+c. Newspapers, phonograph, gramophone, Silent films, Motion pictures
+d. phonograph, gramophone, Silent films, Motion pictures, TV
+-------------------------
+Answer: Newspapers, phonograph, gramophone, Silent films, TV
+-------------------- Question :7
+
+
+
+
+The following statements about multimedia formats are true EXCEPT for one.
+Select one:
+a. The use of multimedia formats can make studying literature more interesting.?
+b. Interpretation of literary texts is best done using multimedia.
+c. All multimedia formats are computer-generated. 
+d. Multimedia formats are an integration of media types such as text, graphics, audio, still and moving images
+-------------------------
+Answer: All multimedia formats are computer-generated.
+-------------------- Question :8
+
+
+
+
+The purpose of HTML is to display data and focus on how the data looks. whereas XML structures, stores, and transfers information and describes what the data is
+Select one:
+a. True 
+b. False
+-------------------------
+Answer: True
+-------------------- Question :9
+
+
+
+
+The woven combination of text, graphic art, sound, animation, and video elements is ——–
+Select one:
+a. Movie
+b. Hyper multimedia
+c. Multimedia 
+d. Presentation
+-------------------------
+Answer: Multimedia
+-------------------- Question :10
+
+
+
+
+Tools which are used to combine text, music, and graphic into a single unit, are called —– tools.
+Select one:
+a. Movie making tool
+b. None
+c. Authoring tool 
+d. Multimedia tool
+-------------------------
+Answer: Authoring tool
+-------------------- Question :11
+
+
+
+
+Which of the following allow user to navigate all the content of the project strictly?
+Select one:
+a. Nonlinear
+b. Hierarchical
+c. Composite
+d. Linear 
+-------------------------
+Answer: Linear
+-------------------- Question :12
+
+
+
+
+Which of the following aspects of Color Principles should be considered when designing a Graphics project? O: Color scheme| Art styles| use too many colors
+Select one:
+a. 1, 2 and 3 only 
+b. 1 and 3 only
+c. 1 only
+d. All of the above
+-------------------------
+Answer: 1, 2 and 3 only
+-------------------- Question :13
+
+
+
+
+Which of the following aspects of design should be considered when designing a Graphics project O: color schemes | how lettering is perceived
+Select one:
+a. 1 and 2 only
+b. Neither 1 nor 2
+c. Both 1 and 2 
+d. 1 only
+-------------------------
+Answer: Both 1 and 2
+-------------------- Question :14
+
+
+
+
+Which of the following statements about Multimedia are ? O: 2002 Skype was released | 2004 Web 2.0 was recognized | 2005 YouTube was created | 2006 Twitter was created
+Select one:
+a. 2 and 3 only
+b. 2, 3, and 4 only 
+c. 1 only
+d. All of the above
+-------------------------
+Answer: 2, 3, and 4 only
+-------------------- Question :15
+
+
+
+
+Which of the following statements hold(s) true about multimedia? Statement 1: Gramophone was the first device that was able to record and reproduce sound. Statement 2: phonograph was one of the dominant audio recording formats throughout the twentieth century
+Select one:
+a. Neither statement 1 nor statement 2 
+b. Only statement one
+c. Both statement 1 and statement 2
+d. Only statement one
+-------------------------
+Answer: Neither statement 1 nor statement 2
+-------------------- Question :16
+
+
+
+
+Which of the following statements hold(s) true about multimedia?Statement 1: It is any type of media where every type of information can be represented, stored, transmitted and processed digitally. Statement 2: It is a combination of picture, sound and animation.
+Select one:
+a. Neither statement 1 nor statement 2
+b. Only statement one
+c. Only statement one
+d. Both statement 1 and statement 2 
+-------------------------
+Answer: Both statement 1 and statement 2
+-------------------- Question :17
+
+
+
+
+Which of the following statements is/are  about Hypermedia? Statement 1: user can navigate all the content of the book freely. Statement 2: Hypermedia includes a wide array of media, such as graphics, images, sound and video, and links them together..
+Select one:
+a. Both statement 1 and statement 2
+b. Only statement one
+c. Neither statement 1 nor statement 2
+d. Only statement one 
+-------------------------
+Answer: Only statement one
+-------------------- Question :18
+
+
+
+
+Which of the following statements is/are IN about multimedia?
+Select one:
+a. Multimedia applications can only store digital data, they cannot process it.
+b. Video, animations and audio are the continuous form of multimedia elements.
+c. A multimedia application with large set of audio and video takes less time to launch than the one which contains text and static images
+d. Both A and B 
+-------------------------
+Answer: Both A and B
+-------------------- Question :19
+
+
+
+
+Which one of the following is the BEST example of a Animation Software Tools? O: 3ds Max| Maya| Blender| Filmora
+Select one:
+a. 1, 2 and 3 only 
+b. 1 only
+c. 1 and 3 only
+d. All of the above
+-------------------------
+Answer: 1, 2 and 3 only
+-------------------- Question :20
+
+
+
+
+Which one of the following is the BEST example of a Digital Audio Software Tools? O: Adobe Audition | Cakewalk | Sound Forge | GIMP
+Select one:
+a. All of the above
+b. 1 only
+c. 2, 3, and 4 only
+d. 1 and 3 only 
+-------------------------
+Answer: 1 and 3 only
