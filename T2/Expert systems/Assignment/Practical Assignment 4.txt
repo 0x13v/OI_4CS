@@ -1,0 +1,14 @@
+mohammed Ashraf taha - 617027
+
+code:-
+-------------------------------------------------
+graduated(Age):-
+	A is Age,
+    (A > 22 ->  write('graduated');write('not graduated') ).
+-------------------------------------------------
+?-
+graduated(23).
+-------------------------------------------------
+Output:
+
+graduated

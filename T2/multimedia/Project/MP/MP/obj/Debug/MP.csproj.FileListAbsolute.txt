@@ -1,0 +1,15 @@
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\bin\Debug\Interop.WMPLib.dll
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\bin\Debug\AxInterop.WMPLib.dll
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\Interop.WMPLib.dll
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\AxInterop.WMPLib.dll
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\MP.csproj.ResolveComReference.cache
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\MP.Form1.resources
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\MP.Properties.Resources.resources
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\MP.csproj.GenerateResource.cache
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\MP.csproj.CoreCompileInputs.cache
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\MP.UserControl1.resources
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\bin\Debug\M.exe.config
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\bin\Debug\M.exe
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\bin\Debug\M.pdb
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\M.exe
+D:\Files\CS\OI_4CS\T2\multimedia\Project\MP\MP\obj\Debug\M.pdb

@@ -1,0 +1,6 @@
+area_of_Circle(N):-
+	P=3.14,
+    A is N,
+    (A>0 ->Ar is P * A,
+    write('Area= '),
+    writeln(Ar) ; writeln("R is not valid")).

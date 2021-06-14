@@ -1,0 +1,37 @@
+mohammed Ashraf taha - 617027
+
+code:
+-----------------------------------------------------------
+area_of_Circle(N):-
+	P=3.14,
+    A is N,
+    Ar is P * A,
+    write('Area= '),
+    writeln(Ar).
+area_of_rectangle(X,Y):-
+    A is X,
+    B is Y,
+    Ar is B * A,
+    write('Area= '),
+    writeln(Ar).
+    
+area_of_triangle(X,Y):-
+    A is X,
+    B is Y * 0.5,
+    Ar is B * A,
+    write('Area= '),
+    writeln(Ar).
+-----------------------------------------------------------
+?-
+area_of_Circle(2),
+area_of_rectangle(2,3),
+area_of_triangle(2,3).
+
+
+-----------------------------------------------------------
+Output:
+Area= 6.28
+Area= 6
+Area= 3.0
+
+-----------------------------------------------------------

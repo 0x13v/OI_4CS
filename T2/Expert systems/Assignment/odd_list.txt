@@ -1,0 +1,5 @@
+writelist([]).                                 
+writelist([H|T]) :-
+    ( 0 is H mod 2 ->   writelist(T) ; write(H),writelist(T)).
+   
+

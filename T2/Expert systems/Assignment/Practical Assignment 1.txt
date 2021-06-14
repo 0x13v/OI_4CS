@@ -1,0 +1,28 @@
+mohammed Ashraf taha - 617027
+cod:- 
+-------------------------------------
+even_odd(List, Even, Odd) :- 
+    % First position is odd
+    even_odd_odd(List, Even, Odd).
+
+% We handle the odd position, the next is even
+even_odd_odd([H|T], Even, [H|Odd]) :- 
+    even_odd_even(T, Even, Odd).
+even_odd_odd([], [], []).
+
+% We handle the even position; the next is odd
+even_odd_even([H|T], [H|Even], Odd) :- 
+    even_odd_odd(T, Even, Odd).
+even_odd_even([], [], []).
+
+
+-------------------------------------
+
+-------------------------------------
+
+?- even_odd([1,2,3,4,5],X,Y)
+
+-------------------------
+output:
+X = [2, 4],
+Y = [1, 3, 5]

@@ -1,0 +1,245 @@
+
+Started on	Tuesday, 1 June 2021, 8:23 PM
+State	Finished
+Completed on	Tuesday, 1 June 2021, 8:37 PM
+Time taken	13 mins 30 secs
+Grade	20.00 out of 20.00 (100%)
+
+  
+  
+  
+  
+…… is the structure of linked elements through which a user can navigate inactive multimedia
+Select one:
+a. None of the above
+b. Hypermedia     
+c. Hyperlinks
+d. Multimedia
+  
+ The Answer is: Hypermedia
+  
+  
+  
+  
+A project which is viewed by the user from beginning to end is called ——-
+Select one:
+a. Movie
+b. Linear Multimedia   
+c. PPT Presentation
+d. Multimedia
+  
+ The Answer is: Linear Multimedia
+  
+  
+  
+  
+Edward Mosher developed the Generalized Markup Language (GML) for …..
+Select one:
+a. IBM   
+b. Microsoft
+c. Apple
+d. GML didn’t develop by Edward Mosher
+  
+ The Answer is: IBM
+  
+  
+  
+  
+If multimedia elements are static and dynamic elements, which of the following isn’t type of dynamic elements
+Select one:
+a. Audio
+b. Graphics   
+c. Video
+d. Animation
+  
+ The Answer is: Graphics
+  
+  
+  
+  
+Standard Generalized Markup Language (SGML) released by …….
+Select one:
+a. Apple
+b. Microsoft
+c. IBM
+d. IOS   
+  
+ The Answer is: IOS
+  
+  
+  
+  
+The    sequence in which the following events appeared is….
+Select one:
+a. Newspapers, gramophone, phonograph, Silent films, TV
+b. Newspapers, phonograph, gramophone, Silent films, TV   
+c. Newspapers, phonograph, gramophone, Silent films, Motion pictures
+d. phonograph, gramophone, Silent films, Motion pictures, TV
+  
+ The Answer is: Newspapers, phonograph, gramophone, Silent films, TV
+  
+  
+  
+  
+The following statements about multimedia formats are true EXCEPT for one.
+Select one:
+a. The use of multimedia formats can make studying literature more interesting.?
+b. Interpretation of literary texts is best done using multimedia.
+c. All multimedia formats are computer-generated.   
+d. Multimedia formats are an integration of media types such as text, graphics, audio, still and moving images
+  
+ The Answer is: All multimedia formats are computer-generated.
+  
+  
+  
+  
+The purpose of HTML is to display data and focus on how the data looks. whereas XML structures, stores, and transfers information and describes what the data is
+Select one:
+a. True   
+b. False
+  
+ The Answer is: True
+  
+  
+  
+  
+The woven combination of text, graphic art, sound, animation, and video elements is ——–
+Select one:
+a. Movie
+b. Hyper multimedia
+c. Multimedia   
+d. Presentation
+  
+ The Answer is: Multimedia
+  
+  
+  
+  
+Tools which are used to combine text, music, and graphic into a single unit, are called —– tools.
+Select one:
+a. Movie making tool
+b. None
+c. Authoring tool   
+d. Multimedia tool
+  
+ The Answer is: Authoring tool
+  
+  
+  
+  
+Which of the following allow user to navigate all the content of the project strictly?
+Select one:
+a. Nonlinear
+b. Hierarchical
+c. Composite
+d. Linear   
+  
+ The Answer is: Linear
+  
+  
+  
+  
+Which of the following aspects of Color Principles should be considered when designing a Graphics project? O: Color scheme| Art styles| use too many colors
+Select one:
+a. 1, 2 and 3 only   
+b. 1 and 3 only
+c. 1 only
+d. All of the above
+  
+ The Answer is: 1, 2 and 3 only
+  
+  
+  
+  
+Which of the following aspects of design should be considered when designing a Graphics project O: color schemes | how lettering is perceived
+Select one:
+a. 1 and 2 only
+b. Neither 1 nor 2
+c. Both 1 and 2   
+d. 1 only
+  
+ The Answer is: Both 1 and 2
+  
+  
+  
+  
+Which of the following statements about Multimedia are   ? O: 2002 Skype was released | 2004 Web 2.0 was recognized | 2005 YouTube was created | 2006 Twitter was created
+Select one:
+a. 2 and 3 only
+b. 2, 3, and 4 only   
+c. 1 only
+d. All of the above
+  
+ The Answer is: 2, 3, and 4 only
+  
+  
+  
+  
+Which of the following statements hold(s) true about multimedia? Statement 1: Gramophone was the first device that was able to record and reproduce sound. Statement 2: phonograph was one of the dominant audio recording formats throughout the twentieth century
+Select one:
+a. Neither statement 1 nor statement 2   
+b. Only statement one
+c. Both statement 1 and statement 2
+d. Only statement one
+  
+ The Answer is: Neither statement 1 nor statement 2
+  
+  
+  
+  
+Which of the following statements hold(s) true about multimedia?Statement 1: It is any type of media where every type of information can be represented, stored, transmitted and processed digitally. Statement 2: It is a combination of picture, sound and animation.
+Select one:
+a. Neither statement 1 nor statement 2
+b. Only statement one
+c. Only statement one
+d. Both statement 1 and statement 2   
+  
+ The Answer is: Both statement 1 and statement 2
+  
+  
+  
+  
+Which of the following statements is/are    about Hypermedia? Statement 1: user can navigate all the content of the book freely. Statement 2: Hypermedia includes a wide array of media, such as graphics, images, sound and video, and links them together..
+Select one:
+a. Both statement 1 and statement 2
+b. Only statement one
+c. Neither statement 1 nor statement 2
+d. Only statement one   
+  
+ The Answer is: Only statement one
+  
+  
+  
+  
+Which of the following statements is/are IN   about multimedia?
+Select one:
+a. Multimedia applications can only store digital data, they cannot process it.
+b. Video, animations and audio are the continuous form of multimedia elements.
+c. A multimedia application with large set of audio and video takes less time to launch than the one which contains text and static images
+d. Both A and B   
+  
+ The Answer is: Both A and B
+  
+  
+  
+  
+Which one of the following is the BEST example of a Animation Software Tools? O: 3ds Max| Maya| Blender| Filmora
+Select one:
+a. 1, 2 and 3 only   
+b. 1 only
+c. 1 and 3 only
+d. All of the above
+  
+ The Answer is: 1, 2 and 3 only
+  
+  
+  
+  
+Which one of the following is the BEST example of a Digital Audio Software Tools? O: Adobe Audition | Cakewalk | Sound Forge | GIMP
+Select one:
+a. All of the above
+b. 1 only
+c. 2, 3, and 4 only
+d. 1 and 3 only   
+  
+ The Answer is: 1 and 3 only
